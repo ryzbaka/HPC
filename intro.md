@@ -1,4 +1,6 @@
-# Power Consumption
+# Power Consumption and Fabrication Cost
+
+## Power Consumption
 
 - Two types of power consumption:
   - <strong>Active Power</strong>: Power consumption when circuit is active.
@@ -10,7 +12,7 @@
 - Active power and static power are hence exponentially inversely propotional.
   ![active_static_voltage_relationship](./assets/static_vs_active_power_voltage.png)
 
-# Fabrication Cost
+## Fabrication Cost
 
 - Chips are manufactured using circular silicon disks called _wafers_.
 - Due to the shape of these wafers and defects in the silicon itself as well as the manufacturing process, every bit of the wafer isn't converted into a chip which leads to wastage.

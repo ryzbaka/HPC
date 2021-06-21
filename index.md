@@ -1,4 +1,12 @@
 # High Performance Computing Notes
+
+## High Performance Computing Architecture
+
+| Topic                                | Link                                                         |
+| ------------------------------------ | ------------------------------------------------------------ |
+| Power Consumption & Fabrication Cost | [Link](https://ryzbaka.github.io/HPC/intro)                  |
+| Metrics and Evalutaion               | [Link](https://ryzbaka.github.io/HPC/metrics_and_evaluation) |
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryzbaka/HPC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
